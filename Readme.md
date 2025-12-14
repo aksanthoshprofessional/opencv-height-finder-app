@@ -57,4 +57,3 @@ python HeightFinder.py
 
 - The accuracy of height calculation depends on correct distance input from the user.
 
-- Use responsibly for image analysis and measurement tasks.
