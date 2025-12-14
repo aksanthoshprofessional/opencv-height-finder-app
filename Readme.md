@@ -16,8 +16,8 @@
 
 Ensure the following Python libraries are installed:
 
-- `tkinter` (built-in with Python)
-- `cv2` (OpenCV)
+- `tkinter` 
+- `cv2` 
 - `math`
 
 You can install missing dependencies with:
